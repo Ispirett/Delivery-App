@@ -108,7 +108,7 @@ export default class OrderInformation extends Component {
     render(){
 
         return(
-           <section className="section order-section">
+           <section id="order-section" className="section order-section">
             <OrderForm />
 
            </section>

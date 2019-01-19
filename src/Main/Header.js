@@ -7,7 +7,7 @@ import './main.css'
      return(
          <nav>
              <ul>
-                <l1><a href="#">Your Orders</a></l1>
+                <li><a href="#">Your Orders</a></li>
                  <li><a href="#">Information</a></li>
                  <li><a href="#">About</a></li>
 
