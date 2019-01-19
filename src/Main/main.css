@@ -1,0 +1,11 @@
+.item-image{
+    width: 200px;
+    height: 200px;
+
+}
+
+.item-div a {
+
+    text-decoration: none;
+    color: #111;
+}
